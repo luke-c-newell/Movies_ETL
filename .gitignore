@@ -1,5 +1,6 @@
 # Adding .DS_Store
 .DS_Store
+config.py
 
 # Adding data files
 movies_metadata.csv
