@@ -2,10 +2,6 @@
 .DS_Store
 config.py
 
-# Adding data files
-movies_metadata.csv
-ratings.csv
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
